@@ -1,0 +1,36 @@
+C:\Users\bekas\Desktop\Projects\Visual Studio\Social_Book\Social_Book\bin\Debug\netcoreapp3.1\Social_Book.exe
+C:\Users\bekas\Desktop\Projects\Visual Studio\Social_Book\Social_Book\bin\Debug\netcoreapp3.1\Social_Book.deps.json
+C:\Users\bekas\Desktop\Projects\Visual Studio\Social_Book\Social_Book\bin\Debug\netcoreapp3.1\Social_Book.runtimeconfig.json
+C:\Users\bekas\Desktop\Projects\Visual Studio\Social_Book\Social_Book\bin\Debug\netcoreapp3.1\Social_Book.runtimeconfig.dev.json
+C:\Users\bekas\Desktop\Projects\Visual Studio\Social_Book\Social_Book\bin\Debug\netcoreapp3.1\Social_Book.dll
+C:\Users\bekas\Desktop\Projects\Visual Studio\Social_Book\Social_Book\bin\Debug\netcoreapp3.1\Social_Book.pdb
+C:\Users\bekas\Desktop\Projects\Visual Studio\Social_Book\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.csproj.AssemblyReference.cache
+C:\Users\bekas\Desktop\Projects\Visual Studio\Social_Book\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.csproj.GenerateResource.cache
+C:\Users\bekas\Desktop\Projects\Visual Studio\Social_Book\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bekas\Desktop\Projects\Visual Studio\Social_Book\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.AssemblyInfoInputs.cache
+C:\Users\bekas\Desktop\Projects\Visual Studio\Social_Book\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.AssemblyInfo.cs
+C:\Users\bekas\Desktop\Projects\Visual Studio\Social_Book\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.csproj.CoreCompileInputs.cache
+C:\Users\bekas\Desktop\Projects\Visual Studio\Social_Book\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.dll
+C:\Users\bekas\Desktop\Projects\Visual Studio\Social_Book\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.pdb
+C:\Users\bekas\Desktop\Projects\Visual Studio\Social_Book\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.genruntimeconfig.cache
+C:\Users\bekas\Desktop\Projects\Visual Studio\Social_Book\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.StartPage.resources
+C:\Users\bekas\Desktop\Projects\Visual Studio\Social_Book\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.UserPage.resources
+C:\Users\bekas\Desktop\Projects\Visual Studio\Social_Book\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.InfectionPage.resources
+C:\Users\bekas\Desktop\Projects\Visual Studio\SocialBook v3\Social_Book\bin\Debug\netcoreapp3.1\Social_Book.exe
+C:\Users\bekas\Desktop\Projects\Visual Studio\SocialBook v3\Social_Book\bin\Debug\netcoreapp3.1\Social_Book.deps.json
+C:\Users\bekas\Desktop\Projects\Visual Studio\SocialBook v3\Social_Book\bin\Debug\netcoreapp3.1\Social_Book.runtimeconfig.json
+C:\Users\bekas\Desktop\Projects\Visual Studio\SocialBook v3\Social_Book\bin\Debug\netcoreapp3.1\Social_Book.runtimeconfig.dev.json
+C:\Users\bekas\Desktop\Projects\Visual Studio\SocialBook v3\Social_Book\bin\Debug\netcoreapp3.1\Social_Book.dll
+C:\Users\bekas\Desktop\Projects\Visual Studio\SocialBook v3\Social_Book\bin\Debug\netcoreapp3.1\Social_Book.pdb
+C:\Users\bekas\Desktop\Projects\Visual Studio\SocialBook v3\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.csproj.AssemblyReference.cache
+C:\Users\bekas\Desktop\Projects\Visual Studio\SocialBook v3\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.InfectionPage.resources
+C:\Users\bekas\Desktop\Projects\Visual Studio\SocialBook v3\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.StartPage.resources
+C:\Users\bekas\Desktop\Projects\Visual Studio\SocialBook v3\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.UserPage.resources
+C:\Users\bekas\Desktop\Projects\Visual Studio\SocialBook v3\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.csproj.GenerateResource.cache
+C:\Users\bekas\Desktop\Projects\Visual Studio\SocialBook v3\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bekas\Desktop\Projects\Visual Studio\SocialBook v3\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.AssemblyInfoInputs.cache
+C:\Users\bekas\Desktop\Projects\Visual Studio\SocialBook v3\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.AssemblyInfo.cs
+C:\Users\bekas\Desktop\Projects\Visual Studio\SocialBook v3\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.csproj.CoreCompileInputs.cache
+C:\Users\bekas\Desktop\Projects\Visual Studio\SocialBook v3\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.dll
+C:\Users\bekas\Desktop\Projects\Visual Studio\SocialBook v3\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.pdb
+C:\Users\bekas\Desktop\Projects\Visual Studio\SocialBook v3\Social_Book\obj\Debug\netcoreapp3.1\Social_Book.genruntimeconfig.cache
