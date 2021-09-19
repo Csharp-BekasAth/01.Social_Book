@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bekas\\Desktop\\Projects\\Visual Studio\\SocialBook v3\\Social_Book\\Social_Book.csproj",
+      "projectUniqueName": "C:\\Users\\bekas\\Desktop\\Projects\\VisualStudio\\SocialBook\\SocialBook v3\\Social_Book\\Social_Book.csproj",
       "projectName": "Social_Book",
-      "projectPath": "C:\\Users\\bekas\\Desktop\\Projects\\Visual Studio\\SocialBook v3\\Social_Book\\Social_Book.csproj",
+      "projectPath": "C:\\Users\\bekas\\Desktop\\Projects\\VisualStudio\\SocialBook\\SocialBook v3\\Social_Book\\Social_Book.csproj",
       "packagesPath": "C:\\Users\\bekas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bekas\\Desktop\\Projects\\Visual Studio\\SocialBook v3\\Social_Book\\obj\\",
+      "outputPath": "C:\\Users\\bekas\\Desktop\\Projects\\VisualStudio\\SocialBook\\SocialBook v3\\Social_Book\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
